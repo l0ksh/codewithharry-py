@@ -1,0 +1,584 @@
+Jun 25 00:17:01 ubuntu CRON[51897]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 00:17:01 ubuntu CRON[51897]: pam_unix(cron:session): session closed for user root
+Jun 25 01:17:01 ubuntu CRON[52298]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 01:17:01 ubuntu CRON[52298]: pam_unix(cron:session): session closed for user root
+Jun 25 02:17:01 ubuntu CRON[52689]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 02:17:01 ubuntu CRON[52689]: pam_unix(cron:session): session closed for user root
+Jun 25 03:10:01 ubuntu CRON[53034]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 03:10:01 ubuntu CRON[53034]: pam_unix(cron:session): session closed for user root
+Jun 25 03:17:01 ubuntu CRON[53089]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 03:17:01 ubuntu CRON[53089]: pam_unix(cron:session): session closed for user root
+Jun 25 03:30:01 ubuntu CRON[53177]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 03:30:01 ubuntu CRON[53177]: pam_unix(cron:session): session closed for user root
+Jun 25 04:17:01 ubuntu CRON[53464]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 04:17:01 ubuntu CRON[53464]: pam_unix(cron:session): session closed for user root
+Jun 25 05:17:01 ubuntu CRON[53861]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 05:17:01 ubuntu CRON[53861]: pam_unix(cron:session): session closed for user root
+Jun 25 06:17:01 ubuntu CRON[54276]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 06:17:01 ubuntu CRON[54276]: pam_unix(cron:session): session closed for user root
+Jun 25 06:25:01 ubuntu CRON[54327]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 06:25:01 ubuntu CRON[54327]: pam_unix(cron:session): session closed for user root
+Jun 25 06:46:58 ubuntu PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Jun 25 06:46:58 ubuntu PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Jun 25 06:47:01 ubuntu CRON[55084]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 06:47:01 ubuntu CRON[55084]: pam_unix(cron:session): session closed for user root
+Jun 25 06:49:45 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Jun 25 06:49:45 ubuntu pkexec[55247]: l0ksh: Executing command [USER=root] [TTY=unknown] [CWD=/home/l0ksh] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 25 07:17:01 ubuntu CRON[55512]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 07:17:01 ubuntu CRON[55512]: pam_unix(cron:session): session closed for user root
+Jun 25 07:30:01 ubuntu CRON[55601]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 07:30:01 ubuntu CRON[55601]: pam_unix(cron:session): session closed for user root
+Jun 25 08:17:01 ubuntu CRON[55967]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 08:17:01 ubuntu CRON[55967]: pam_unix(cron:session): session closed for user root
+Jun 25 08:30:01 ubuntu CRON[56050]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 08:30:01 ubuntu CRON[56050]: pam_unix(cron:session): session closed for user root
+Jun 25 09:17:01 ubuntu CRON[56363]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 09:17:01 ubuntu CRON[56363]: pam_unix(cron:session): session closed for user root
+Jun 25 09:30:01 ubuntu CRON[56459]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 09:30:01 ubuntu CRON[56459]: pam_unix(cron:session): session closed for user root
+Jun 25 09:31:44 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Jun 25 09:31:44 ubuntu pkexec[57302]: l0ksh: Executing command [USER=root] [TTY=unknown] [CWD=/home/l0ksh] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 25 10:17:01 ubuntu CRON[57592]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 10:17:01 ubuntu CRON[57592]: pam_unix(cron:session): session closed for user root
+Jun 25 10:30:01 ubuntu CRON[57673]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 10:30:01 ubuntu CRON[57673]: pam_unix(cron:session): session closed for user root
+Jun 25 11:17:01 ubuntu CRON[58007]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 11:17:01 ubuntu CRON[58007]: pam_unix(cron:session): session closed for user root
+Jun 25 11:30:01 ubuntu CRON[58090]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 11:30:01 ubuntu CRON[58090]: pam_unix(cron:session): session closed for user root
+Jun 25 12:17:01 ubuntu CRON[58434]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 12:17:01 ubuntu CRON[58434]: pam_unix(cron:session): session closed for user root
+Jun 25 12:30:01 ubuntu CRON[58518]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 12:30:01 ubuntu CRON[58518]: pam_unix(cron:session): session closed for user root
+Jun 25 13:17:01 ubuntu CRON[58834]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 13:17:01 ubuntu CRON[58834]: pam_unix(cron:session): session closed for user root
+Jun 25 13:30:01 ubuntu CRON[58918]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 13:30:01 ubuntu CRON[58918]: pam_unix(cron:session): session closed for user root
+Jun 25 14:17:01 ubuntu CRON[59214]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 14:17:01 ubuntu CRON[59214]: pam_unix(cron:session): session closed for user root
+Jun 25 14:30:01 ubuntu CRON[59306]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 14:30:01 ubuntu CRON[59306]: pam_unix(cron:session): session closed for user root
+Jun 25 15:17:01 ubuntu CRON[59618]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 15:17:01 ubuntu CRON[59618]: pam_unix(cron:session): session closed for user root
+Jun 25 15:30:01 ubuntu CRON[59719]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 15:30:01 ubuntu CRON[59719]: pam_unix(cron:session): session closed for user root
+Jun 25 16:17:01 ubuntu CRON[60078]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 16:17:01 ubuntu CRON[60078]: pam_unix(cron:session): session closed for user root
+Jun 25 16:30:01 ubuntu CRON[60145]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 16:30:01 ubuntu CRON[60145]: pam_unix(cron:session): session closed for user root
+Jun 25 17:17:01 ubuntu CRON[60452]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 17:17:01 ubuntu CRON[60452]: pam_unix(cron:session): session closed for user root
+Jun 25 17:30:01 ubuntu CRON[60540]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 17:30:01 ubuntu CRON[60540]: pam_unix(cron:session): session closed for user root
+Jun 25 18:17:01 ubuntu CRON[60894]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 18:17:01 ubuntu CRON[60894]: pam_unix(cron:session): session closed for user root
+Jun 25 18:30:01 ubuntu CRON[60970]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 18:30:01 ubuntu CRON[60970]: pam_unix(cron:session): session closed for user root
+Jun 25 19:17:01 ubuntu CRON[61279]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 19:17:01 ubuntu CRON[61279]: pam_unix(cron:session): session closed for user root
+Jun 25 19:30:01 ubuntu CRON[61363]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 19:30:01 ubuntu CRON[61363]: pam_unix(cron:session): session closed for user root
+Jun 25 20:17:01 ubuntu CRON[61660]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 20:17:01 ubuntu CRON[61660]: pam_unix(cron:session): session closed for user root
+Jun 25 20:30:01 ubuntu CRON[61734]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 20:30:01 ubuntu CRON[61734]: pam_unix(cron:session): session closed for user root
+Jun 25 21:17:01 ubuntu CRON[62092]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 21:17:01 ubuntu CRON[62092]: pam_unix(cron:session): session closed for user root
+Jun 25 21:30:01 ubuntu CRON[62176]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 21:30:01 ubuntu CRON[62176]: pam_unix(cron:session): session closed for user root
+Jun 25 22:17:01 ubuntu CRON[62482]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 22:17:01 ubuntu CRON[62482]: pam_unix(cron:session): session closed for user root
+Jun 25 22:30:01 ubuntu CRON[62561]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 22:30:01 ubuntu CRON[62561]: pam_unix(cron:session): session closed for user root
+Jun 25 23:17:01 ubuntu CRON[62862]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 23:17:01 ubuntu CRON[62862]: pam_unix(cron:session): session closed for user root
+Jun 25 23:30:01 ubuntu CRON[62981]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 25 23:30:01 ubuntu CRON[62981]: pam_unix(cron:session): session closed for user root
+Jun 26 00:17:01 ubuntu CRON[63347]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 00:17:02 ubuntu CRON[63347]: pam_unix(cron:session): session closed for user root
+Jun 26 01:17:01 ubuntu CRON[63813]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 01:17:02 ubuntu CRON[63813]: pam_unix(cron:session): session closed for user root
+Jun 26 02:17:01 ubuntu CRON[64204]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 02:17:01 ubuntu CRON[64204]: pam_unix(cron:session): session closed for user root
+Jun 26 03:10:01 ubuntu CRON[64561]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 03:10:01 ubuntu CRON[64561]: pam_unix(cron:session): session closed for user root
+Jun 26 03:17:01 ubuntu CRON[64609]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 03:17:01 ubuntu CRON[64609]: pam_unix(cron:session): session closed for user root
+Jun 26 04:17:01 ubuntu CRON[64984]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 04:17:01 ubuntu CRON[64984]: pam_unix(cron:session): session closed for user root
+Jun 26 05:17:01 ubuntu CRON[65363]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 05:17:01 ubuntu CRON[65363]: pam_unix(cron:session): session closed for user root
+Jun 26 06:17:01 ubuntu CRON[65847]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 06:17:01 ubuntu CRON[65847]: pam_unix(cron:session): session closed for user root
+Jun 26 06:25:01 ubuntu CRON[65896]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 06:25:01 ubuntu CRON[65896]: pam_unix(cron:session): session closed for user root
+Jun 26 06:46:58 ubuntu PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Jun 26 06:46:58 ubuntu PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Jun 26 06:49:45 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Jun 26 06:49:45 ubuntu pkexec[66818]: l0ksh: Executing command [USER=root] [TTY=unknown] [CWD=/home/l0ksh] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 26 07:17:01 ubuntu CRON[67004]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 07:17:01 ubuntu CRON[67004]: pam_unix(cron:session): session closed for user root
+Jun 26 07:30:01 ubuntu CRON[67085]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 07:30:01 ubuntu CRON[67085]: pam_unix(cron:session): session closed for user root
+Jun 26 08:17:01 ubuntu CRON[67502]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 08:17:01 ubuntu CRON[67502]: pam_unix(cron:session): session closed for user root
+Jun 26 08:30:01 ubuntu CRON[67584]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 08:30:01 ubuntu CRON[67584]: pam_unix(cron:session): session closed for user root
+Jun 26 09:17:01 ubuntu CRON[67908]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 09:17:01 ubuntu CRON[67908]: pam_unix(cron:session): session closed for user root
+Jun 26 09:30:01 ubuntu CRON[67985]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 09:30:01 ubuntu CRON[67985]: pam_unix(cron:session): session closed for user root
+Jun 26 10:05:22 ubuntu gdm-password]: gkr-pam: unlocked login keyring
+Jun 26 10:17:01 ubuntu CRON[68383]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 10:17:01 ubuntu CRON[68383]: pam_unix(cron:session): session closed for user root
+Jun 26 10:30:01 ubuntu CRON[68471]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 10:30:01 ubuntu CRON[68471]: pam_unix(cron:session): session closed for user root
+Jun 26 11:16:30 ubuntu sudo:    l0ksh : TTY=pts/1 ; PWD=/home/l0ksh/go-practice ; USER=root ; COMMAND=/usr/bin/apt search golang
+Jun 26 11:16:30 ubuntu sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Jun 26 11:16:31 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 26 11:16:43 ubuntu sudo:    l0ksh : TTY=pts/1 ; PWD=/home/l0ksh/go-practice ; USER=root ; COMMAND=/usr/bin/apt search golang-go
+Jun 26 11:16:43 ubuntu sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Jun 26 11:16:43 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 26 11:16:55 ubuntu sudo:    l0ksh : TTY=pts/1 ; PWD=/home/l0ksh/go-practice ; USER=root ; COMMAND=/usr/bin/apt install golang-go
+Jun 26 11:16:55 ubuntu sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Jun 26 11:17:01 ubuntu CRON[69793]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 11:17:01 ubuntu CRON[69793]: pam_unix(cron:session): session closed for user root
+Jun 26 11:17:23 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 26 11:19:44 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Jun 26 11:19:44 ubuntu pkexec[69980]: l0ksh: Executing command [USER=root] [TTY=unknown] [CWD=/home/l0ksh] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 26 11:30:01 ubuntu CRON[70324]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 11:30:01 ubuntu CRON[70324]: pam_unix(cron:session): session closed for user root
+Jun 26 11:37:35 ubuntu gdm-password]: gkr-pam: unlocked login keyring
+Jun 26 12:17:01 ubuntu CRON[72310]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 12:17:01 ubuntu CRON[72310]: pam_unix(cron:session): session closed for user root
+Jun 26 12:30:01 ubuntu CRON[72727]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 12:30:01 ubuntu CRON[72727]: pam_unix(cron:session): session closed for user root
+Jun 26 13:17:01 ubuntu CRON[74191]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 13:17:01 ubuntu CRON[74191]: pam_unix(cron:session): session closed for user root
+Jun 26 13:30:01 ubuntu CRON[74271]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 13:30:01 ubuntu CRON[74271]: pam_unix(cron:session): session closed for user root
+Jun 26 14:13:35 ubuntu gdm-password]: gkr-pam: unlocked login keyring
+Jun 26 14:17:01 ubuntu CRON[74639]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 14:17:01 ubuntu CRON[74639]: pam_unix(cron:session): session closed for user root
+Jun 26 14:22:44 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Jun 26 14:22:44 ubuntu pkexec[75527]: l0ksh: Executing command [USER=root] [TTY=unknown] [CWD=/home/l0ksh] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 26 14:30:01 ubuntu CRON[75575]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 14:30:01 ubuntu CRON[75575]: pam_unix(cron:session): session closed for user root
+Jun 26 15:17:01 ubuntu CRON[76239]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 15:17:01 ubuntu CRON[76239]: pam_unix(cron:session): session closed for user root
+Jun 26 15:30:01 ubuntu CRON[76320]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 15:30:01 ubuntu CRON[76320]: pam_unix(cron:session): session closed for user root
+Jun 26 16:17:01 ubuntu CRON[76618]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 16:17:01 ubuntu CRON[76618]: pam_unix(cron:session): session closed for user root
+Jun 26 16:30:01 ubuntu CRON[76695]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 16:30:01 ubuntu CRON[76695]: pam_unix(cron:session): session closed for user root
+Jun 26 17:17:01 ubuntu CRON[77001]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 17:17:01 ubuntu CRON[77001]: pam_unix(cron:session): session closed for user root
+Jun 26 17:30:01 ubuntu CRON[77086]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 17:30:01 ubuntu CRON[77086]: pam_unix(cron:session): session closed for user root
+Jun 26 17:43:08 ubuntu gdm-password]: gkr-pam: unlocked login keyring
+Jun 26 18:17:01 ubuntu CRON[78442]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 18:17:01 ubuntu CRON[78442]: pam_unix(cron:session): session closed for user root
+Jun 26 18:30:01 ubuntu CRON[79040]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 18:30:01 ubuntu CRON[79040]: pam_unix(cron:session): session closed for user root
+Jun 26 18:53:10 ubuntu PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.package-install-untrusted auth (only_trusted:0)
+Jun 26 18:53:13 ubuntu polkitd(authority=local): Operator of unix-session:2 successfully authenticated as unix-user:l0ksh to gain ONE-SHOT authorization for action org.freedesktop.packagekit.package-install-untrusted for system-bus-name::1.159 [/snap/snap-store/959/usr/bin/snap-store --gapplication-service] (owned by unix-user:l0ksh)
+Jun 26 18:53:13 ubuntu PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.package-install-untrusted
+Jun 26 18:55:44 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Jun 26 18:55:44 ubuntu pkexec[80484]: l0ksh: Executing command [USER=root] [TTY=unknown] [CWD=/home/l0ksh] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 26 19:17:01 ubuntu CRON[81584]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 19:17:01 ubuntu CRON[81584]: pam_unix(cron:session): session closed for user root
+Jun 26 19:30:01 ubuntu CRON[81796]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 19:30:01 ubuntu CRON[81796]: pam_unix(cron:session): session closed for user root
+Jun 26 20:17:01 ubuntu CRON[82510]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 20:17:01 ubuntu CRON[82510]: pam_unix(cron:session): session closed for user root
+Jun 26 20:30:01 ubuntu CRON[82693]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 20:30:01 ubuntu CRON[82693]: pam_unix(cron:session): session closed for user root
+Jun 26 21:17:01 ubuntu CRON[83343]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 21:17:01 ubuntu CRON[83343]: pam_unix(cron:session): session closed for user root
+Jun 26 21:30:01 ubuntu CRON[83525]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 21:30:01 ubuntu CRON[83525]: pam_unix(cron:session): session closed for user root
+Jun 26 22:17:01 ubuntu CRON[84224]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 22:17:01 ubuntu CRON[84224]: pam_unix(cron:session): session closed for user root
+Jun 26 22:30:01 ubuntu CRON[84430]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 22:30:01 ubuntu CRON[84430]: pam_unix(cron:session): session closed for user root
+Jun 26 23:17:01 ubuntu CRON[85135]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 23:17:01 ubuntu CRON[85135]: pam_unix(cron:session): session closed for user root
+Jun 26 23:30:01 ubuntu CRON[85296]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 26 23:30:01 ubuntu CRON[85296]: pam_unix(cron:session): session closed for user root
+Jun 27 00:17:01 ubuntu CRON[86010]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 00:17:01 ubuntu CRON[86010]: pam_unix(cron:session): session closed for user root
+Jun 27 01:17:01 ubuntu CRON[86731]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 01:17:01 ubuntu CRON[86731]: pam_unix(cron:session): session closed for user root
+Jun 27 02:17:01 ubuntu CRON[87470]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 02:17:01 ubuntu CRON[87470]: pam_unix(cron:session): session closed for user root
+Jun 27 03:10:01 ubuntu CRON[88130]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 03:10:01 ubuntu CRON[88130]: pam_unix(cron:session): session closed for user root
+Jun 27 03:17:01 ubuntu CRON[88225]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 03:17:01 ubuntu CRON[88225]: pam_unix(cron:session): session closed for user root
+Jun 27 04:17:01 ubuntu CRON[89018]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 04:17:01 ubuntu CRON[89018]: pam_unix(cron:session): session closed for user root
+Jun 27 05:17:01 ubuntu CRON[89778]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 05:17:01 ubuntu CRON[89778]: pam_unix(cron:session): session closed for user root
+Jun 27 06:05:18 ubuntu PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Jun 27 06:05:18 ubuntu PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Jun 27 06:05:25 ubuntu PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Jun 27 06:05:25 ubuntu PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Jun 27 06:05:27 ubuntu PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Jun 27 06:05:27 ubuntu PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Jun 27 06:07:45 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Jun 27 06:07:45 ubuntu pkexec[92487]: l0ksh: Executing command [USER=root] [TTY=unknown] [CWD=/home/l0ksh] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 27 06:17:01 ubuntu CRON[92642]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 06:17:01 ubuntu CRON[92642]: pam_unix(cron:session): session closed for user root
+Jun 27 06:25:01 ubuntu CRON[92821]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 06:25:01 ubuntu CRON[92821]: pam_unix(cron:session): session closed for user root
+Jun 27 07:17:01 ubuntu CRON[93495]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 07:17:01 ubuntu CRON[93495]: pam_unix(cron:session): session closed for user root
+Jun 27 07:30:01 ubuntu CRON[93665]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 07:30:01 ubuntu CRON[93665]: pam_unix(cron:session): session closed for user root
+Jun 27 08:17:01 ubuntu CRON[94347]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 08:17:01 ubuntu CRON[94347]: pam_unix(cron:session): session closed for user root
+Jun 27 08:30:01 ubuntu CRON[94516]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 08:30:01 ubuntu CRON[94516]: pam_unix(cron:session): session closed for user root
+Jun 27 09:17:01 ubuntu CRON[95140]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 09:17:01 ubuntu CRON[95140]: pam_unix(cron:session): session closed for user root
+Jun 27 09:30:01 ubuntu CRON[95326]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 09:30:01 ubuntu CRON[95326]: pam_unix(cron:session): session closed for user root
+Jun 27 09:59:22 ubuntu gdm-password]: gkr-pam: unlocked login keyring
+Jun 27 10:03:52 ubuntu sudo:    l0ksh : TTY=pts/6 ; PWD=/home/l0ksh/go-practice ; USER=root ; COMMAND=/usr/bin/apt remove chat-gpt
+Jun 27 10:03:52 ubuntu sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Jun 27 10:03:59 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 27 10:04:44 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Jun 27 10:04:44 ubuntu pkexec[96884]: l0ksh: Executing command [USER=root] [TTY=unknown] [CWD=/home/l0ksh] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 27 10:17:01 ubuntu CRON[97029]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 10:17:01 ubuntu CRON[97029]: pam_unix(cron:session): session closed for user root
+Jun 27 10:30:01 ubuntu CRON[97414]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 10:30:01 ubuntu CRON[97414]: pam_unix(cron:session): session closed for user root
+Jun 27 11:17:01 ubuntu CRON[98029]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 11:17:01 ubuntu CRON[98029]: pam_unix(cron:session): session closed for user root
+Jun 27 11:30:01 ubuntu CRON[98104]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 11:30:01 ubuntu CRON[98104]: pam_unix(cron:session): session closed for user root
+Jun 27 12:17:01 ubuntu CRON[98419]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 12:17:02 ubuntu CRON[98419]: pam_unix(cron:session): session closed for user root
+Jun 27 12:30:01 ubuntu CRON[98497]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 12:30:02 ubuntu CRON[98497]: pam_unix(cron:session): session closed for user root
+Jun 27 12:56:52 ubuntu gdm-password]: gkr-pam: unlocked login keyring
+Jun 27 13:17:01 ubuntu CRON[98854]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 13:17:02 ubuntu CRON[98854]: pam_unix(cron:session): session closed for user root
+Jun 27 13:30:01 ubuntu CRON[98940]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 13:30:02 ubuntu CRON[98940]: pam_unix(cron:session): session closed for user root
+Jun 27 14:17:01 ubuntu CRON[99237]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 14:17:01 ubuntu CRON[99237]: pam_unix(cron:session): session closed for user root
+Jun 27 14:17:13 ubuntu gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=l0ksh
+Jun 27 14:17:21 ubuntu gdm-password]: gkr-pam: unlocked login keyring
+Jun 27 14:30:01 ubuntu CRON[99402]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 14:30:01 ubuntu CRON[99402]: pam_unix(cron:session): session closed for user root
+Jun 27 15:17:01 ubuntu CRON[99886]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 15:17:01 ubuntu CRON[99886]: pam_unix(cron:session): session closed for user root
+Jun 27 15:30:01 ubuntu CRON[100006]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 15:30:01 ubuntu CRON[100006]: pam_unix(cron:session): session closed for user root
+Jun 27 16:17:01 ubuntu CRON[100638]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 16:17:01 ubuntu CRON[100638]: pam_unix(cron:session): session closed for user root
+Jun 27 16:30:01 ubuntu CRON[100793]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 16:30:01 ubuntu CRON[100793]: pam_unix(cron:session): session closed for user root
+Jun 27 16:31:44 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Jun 27 16:31:44 ubuntu pkexec[101690]: l0ksh: Executing command [USER=root] [TTY=unknown] [CWD=/home/l0ksh] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 27 17:17:01 ubuntu CRON[102199]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 17:17:01 ubuntu CRON[102199]: pam_unix(cron:session): session closed for user root
+Jun 27 17:30:01 ubuntu CRON[102334]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 17:30:01 ubuntu CRON[102334]: pam_unix(cron:session): session closed for user root
+Jun 27 18:02:32 ubuntu gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=l0ksh
+Jun 27 18:02:38 ubuntu gdm-password]: gkr-pam: unlocked login keyring
+Jun 27 18:17:01 ubuntu CRON[103010]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 18:17:01 ubuntu CRON[103010]: pam_unix(cron:session): session closed for user root
+Jun 27 18:30:01 ubuntu CRON[103133]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 18:30:01 ubuntu CRON[103133]: pam_unix(cron:session): session closed for user root
+Jun 27 19:17:01 ubuntu CRON[103974]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 19:17:01 ubuntu CRON[103974]: pam_unix(cron:session): session closed for user root
+Jun 27 19:30:01 ubuntu CRON[104099]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 19:30:01 ubuntu CRON[104099]: pam_unix(cron:session): session closed for user root
+Jun 27 20:17:01 ubuntu CRON[104583]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 20:17:01 ubuntu CRON[104583]: pam_unix(cron:session): session closed for user root
+Jun 27 20:30:01 ubuntu CRON[104716]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 20:30:01 ubuntu CRON[104716]: pam_unix(cron:session): session closed for user root
+Jun 27 21:17:01 ubuntu CRON[105160]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 21:17:01 ubuntu CRON[105160]: pam_unix(cron:session): session closed for user root
+Jun 27 21:30:01 ubuntu CRON[105284]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 21:30:01 ubuntu CRON[105284]: pam_unix(cron:session): session closed for user root
+Jun 27 22:17:01 ubuntu CRON[105760]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 22:17:01 ubuntu CRON[105760]: pam_unix(cron:session): session closed for user root
+Jun 27 22:30:01 ubuntu CRON[105892]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 22:30:01 ubuntu CRON[105892]: pam_unix(cron:session): session closed for user root
+Jun 27 23:17:01 ubuntu CRON[106364]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 23:17:01 ubuntu CRON[106364]: pam_unix(cron:session): session closed for user root
+Jun 27 23:30:01 ubuntu CRON[106500]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 27 23:30:01 ubuntu CRON[106500]: pam_unix(cron:session): session closed for user root
+Jun 28 00:17:01 ubuntu CRON[107082]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 00:17:01 ubuntu CRON[107082]: pam_unix(cron:session): session closed for user root
+Jun 28 01:17:01 ubuntu CRON[107659]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 01:17:01 ubuntu CRON[107659]: pam_unix(cron:session): session closed for user root
+Jun 28 02:17:01 ubuntu CRON[108238]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 02:17:01 ubuntu CRON[108238]: pam_unix(cron:session): session closed for user root
+Jun 28 02:52:44 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Jun 28 02:52:44 ubuntu pkexec[109434]: l0ksh: Executing command [USER=root] [TTY=unknown] [CWD=/home/l0ksh] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 28 03:10:01 ubuntu CRON[109657]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 03:10:01 ubuntu CRON[109657]: pam_unix(cron:session): session closed for user root
+Jun 28 03:17:01 ubuntu CRON[109723]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 03:17:01 ubuntu CRON[109723]: pam_unix(cron:session): session closed for user root
+Jun 28 04:17:01 ubuntu CRON[110304]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 04:17:01 ubuntu CRON[110304]: pam_unix(cron:session): session closed for user root
+Jun 28 05:17:01 ubuntu CRON[110911]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 05:17:01 ubuntu CRON[110911]: pam_unix(cron:session): session closed for user root
+Jun 28 06:17:01 ubuntu CRON[111497]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 06:17:01 ubuntu CRON[111497]: pam_unix(cron:session): session closed for user root
+Jun 28 06:19:44 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Jun 28 06:19:44 ubuntu pkexec[111779]: l0ksh: Executing command [USER=root] [TTY=unknown] [CWD=/home/l0ksh] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 28 06:25:01 ubuntu CRON[111852]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 06:25:01 ubuntu CRON[111852]: pam_unix(cron:session): session closed for user root
+Jun 28 06:46:58 ubuntu PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Jun 28 06:46:58 ubuntu PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Jun 28 06:49:45 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Jun 28 06:49:45 ubuntu pkexec[112864]: l0ksh: Executing command [USER=root] [TTY=unknown] [CWD=/home/l0ksh] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 28 07:17:01 ubuntu CRON[113153]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 07:17:01 ubuntu CRON[113153]: pam_unix(cron:session): session closed for user root
+Jun 28 07:30:01 ubuntu CRON[113272]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 07:30:01 ubuntu CRON[113272]: pam_unix(cron:session): session closed for user root
+Jun 28 08:17:01 ubuntu CRON[113807]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 08:17:01 ubuntu CRON[113807]: pam_unix(cron:session): session closed for user root
+Jun 28 08:30:01 ubuntu CRON[113950]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 08:30:01 ubuntu CRON[113950]: pam_unix(cron:session): session closed for user root
+Jun 28 09:17:01 ubuntu CRON[114447]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 09:17:01 ubuntu CRON[114447]: pam_unix(cron:session): session closed for user root
+Jun 28 09:30:01 ubuntu CRON[114582]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 09:30:01 ubuntu CRON[114582]: pam_unix(cron:session): session closed for user root
+Jun 28 09:48:03 ubuntu gdm-password]: gkr-pam: unlocked login keyring
+Jun 28 10:17:01 ubuntu CRON[117692]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 10:17:01 ubuntu CRON[117692]: pam_unix(cron:session): session closed for user root
+Jun 28 10:19:02 ubuntu gnome-keyring-daemon[1858]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Jun 28 10:19:27 ubuntu dbus-daemon[885]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Jun 28 10:30:01 ubuntu CRON[118821]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 10:30:01 ubuntu CRON[118821]: pam_unix(cron:session): session closed for user root
+Jun 28 11:17:01 ubuntu CRON[119580]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 11:17:01 ubuntu CRON[119580]: pam_unix(cron:session): session closed for user root
+Jun 28 11:30:01 ubuntu CRON[119725]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 11:30:01 ubuntu CRON[119725]: pam_unix(cron:session): session closed for user root
+Jun 28 12:17:01 ubuntu CRON[120213]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 12:17:01 ubuntu CRON[120213]: pam_unix(cron:session): session closed for user root
+Jun 28 12:30:01 ubuntu CRON[120355]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 12:30:01 ubuntu CRON[120355]: pam_unix(cron:session): session closed for user root
+Jun 28 13:17:01 ubuntu CRON[120982]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 13:17:01 ubuntu CRON[120982]: pam_unix(cron:session): session closed for user root
+Jun 28 13:30:01 ubuntu CRON[121187]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 13:30:01 ubuntu CRON[121187]: pam_unix(cron:session): session closed for user root
+Jun 28 14:17:01 ubuntu CRON[121644]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 14:17:01 ubuntu CRON[121644]: pam_unix(cron:session): session closed for user root
+Jun 28 14:29:46 ubuntu gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=l0ksh
+Jun 28 14:29:56 ubuntu gdm-password]: gkr-pam: unlocked login keyring
+Jun 28 14:30:01 ubuntu CRON[121866]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 14:30:01 ubuntu CRON[121866]: pam_unix(cron:session): session closed for user root
+Jun 28 15:17:01 ubuntu CRON[122584]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 15:17:01 ubuntu CRON[122584]: pam_unix(cron:session): session closed for user root
+Jun 28 15:30:01 ubuntu CRON[122751]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 15:30:01 ubuntu CRON[122751]: pam_unix(cron:session): session closed for user root
+Jun 28 15:47:47 ubuntu gdm-password]: gkr-pam: unlocked login keyring
+Jun 28 16:17:01 ubuntu CRON[123480]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 16:17:01 ubuntu CRON[123480]: pam_unix(cron:session): session closed for user root
+Jun 28 16:30:01 ubuntu CRON[123625]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 16:30:01 ubuntu CRON[123625]: pam_unix(cron:session): session closed for user root
+Jun 28 17:15:55 ubuntu gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=l0ksh
+Jun 28 17:16:01 ubuntu gdm-password]: gkr-pam: unlocked login keyring
+Jun 28 17:17:01 ubuntu CRON[124173]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 17:17:01 ubuntu CRON[124173]: pam_unix(cron:session): session closed for user root
+Jun 28 17:30:01 ubuntu CRON[124389]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 17:30:01 ubuntu CRON[124389]: pam_unix(cron:session): session closed for user root
+Jun 28 18:17:01 ubuntu CRON[125147]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 18:17:01 ubuntu CRON[125147]: pam_unix(cron:session): session closed for user root
+Jun 28 18:30:01 ubuntu CRON[125290]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 18:30:01 ubuntu CRON[125290]: pam_unix(cron:session): session closed for user root
+Jun 28 19:17:01 ubuntu CRON[125797]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 19:17:01 ubuntu CRON[125797]: pam_unix(cron:session): session closed for user root
+Jun 28 19:30:01 ubuntu CRON[125923]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 19:30:01 ubuntu CRON[125923]: pam_unix(cron:session): session closed for user root
+Jun 28 20:17:01 ubuntu CRON[126346]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 20:17:01 ubuntu CRON[126346]: pam_unix(cron:session): session closed for user root
+Jun 28 20:30:01 ubuntu CRON[126474]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 20:30:01 ubuntu CRON[126474]: pam_unix(cron:session): session closed for user root
+Jun 28 21:17:01 ubuntu CRON[126905]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 21:17:01 ubuntu CRON[126905]: pam_unix(cron:session): session closed for user root
+Jun 28 21:30:01 ubuntu CRON[127030]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 21:30:01 ubuntu CRON[127030]: pam_unix(cron:session): session closed for user root
+Jun 28 22:17:01 ubuntu CRON[127541]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 22:17:01 ubuntu CRON[127541]: pam_unix(cron:session): session closed for user root
+Jun 28 22:30:01 ubuntu CRON[127676]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 22:30:01 ubuntu CRON[127676]: pam_unix(cron:session): session closed for user root
+Jun 28 23:17:01 ubuntu CRON[128118]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 23:17:01 ubuntu CRON[128118]: pam_unix(cron:session): session closed for user root
+Jun 28 23:30:01 ubuntu CRON[128239]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 28 23:30:01 ubuntu CRON[128239]: pam_unix(cron:session): session closed for user root
+Jun 29 00:17:01 ubuntu CRON[128805]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 00:17:01 ubuntu CRON[128805]: pam_unix(cron:session): session closed for user root
+Jun 29 01:17:01 ubuntu CRON[129408]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 01:17:02 ubuntu CRON[129408]: pam_unix(cron:session): session closed for user root
+Jun 29 02:17:02 ubuntu CRON[130002]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 02:17:02 ubuntu CRON[130002]: pam_unix(cron:session): session closed for user root
+Jun 29 03:10:01 ubuntu CRON[130518]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 03:10:01 ubuntu CRON[130518]: pam_unix(cron:session): session closed for user root
+Jun 29 03:17:01 ubuntu CRON[130577]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 03:17:01 ubuntu CRON[130577]: pam_unix(cron:session): session closed for user root
+Jun 29 04:17:01 ubuntu CRON[131142]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 04:17:01 ubuntu CRON[131142]: pam_unix(cron:session): session closed for user root
+Jun 29 05:17:01 ubuntu CRON[131716]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 05:17:01 ubuntu CRON[131716]: pam_unix(cron:session): session closed for user root
+Jun 29 06:17:01 ubuntu CRON[132296]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 06:17:01 ubuntu CRON[132296]: pam_unix(cron:session): session closed for user root
+Jun 29 06:25:01 ubuntu CRON[132985]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 06:25:01 ubuntu CRON[132985]: pam_unix(cron:session): session closed for user root
+Jun 29 06:28:43 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Jun 29 06:28:43 ubuntu pkexec[133245]: l0ksh: Executing command [USER=root] [TTY=unknown] [CWD=/home/l0ksh] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 29 06:46:58 ubuntu PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Jun 29 06:46:58 ubuntu PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Jun 29 06:49:43 ubuntu pkexec: pam_unix(polkit-1:session): session opened for user root(uid=0) by (uid=1000)
+Jun 29 06:49:44 ubuntu pkexec[143294]: l0ksh: Executing command [USER=root] [TTY=unknown] [CWD=/home/l0ksh] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jun 29 07:17:01 ubuntu CRON[143573]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 07:17:01 ubuntu CRON[143573]: pam_unix(cron:session): session closed for user root
+Jun 29 07:30:01 ubuntu CRON[143712]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 07:30:01 ubuntu CRON[143712]: pam_unix(cron:session): session closed for user root
+Jun 29 08:17:01 ubuntu CRON[144274]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 08:17:01 ubuntu CRON[144274]: pam_unix(cron:session): session closed for user root
+Jun 29 08:30:01 ubuntu CRON[144414]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 08:30:01 ubuntu CRON[144414]: pam_unix(cron:session): session closed for user root
+Jun 29 09:17:01 ubuntu CRON[144991]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 09:17:01 ubuntu CRON[144991]: pam_unix(cron:session): session closed for user root
+Jun 29 09:30:01 ubuntu CRON[145115]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 09:30:01 ubuntu CRON[145115]: pam_unix(cron:session): session closed for user root
+Jun 29 10:17:01 ubuntu CRON[145554]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 10:17:01 ubuntu CRON[145554]: pam_unix(cron:session): session closed for user root
+Jun 29 10:30:01 ubuntu CRON[145673]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 10:30:01 ubuntu CRON[145673]: pam_unix(cron:session): session closed for user root
+Jun 29 11:17:01 ubuntu CRON[146117]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 11:17:01 ubuntu CRON[146117]: pam_unix(cron:session): session closed for user root
+Jun 29 11:30:01 ubuntu CRON[146233]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 11:30:01 ubuntu CRON[146233]: pam_unix(cron:session): session closed for user root
+Jun 29 12:17:01 ubuntu CRON[146631]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 12:17:01 ubuntu CRON[146631]: pam_unix(cron:session): session closed for user root
+Jun 29 12:30:01 ubuntu CRON[146692]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 12:30:01 ubuntu CRON[146692]: pam_unix(cron:session): session closed for user root
+Jun 29 13:17:01 ubuntu CRON[146966]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 13:17:01 ubuntu CRON[146966]: pam_unix(cron:session): session closed for user root
+Jun 29 13:30:01 ubuntu CRON[147027]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 13:30:01 ubuntu CRON[147027]: pam_unix(cron:session): session closed for user root
+Jun 29 14:17:01 ubuntu CRON[147267]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 14:17:01 ubuntu CRON[147267]: pam_unix(cron:session): session closed for user root
+Jun 29 14:30:01 ubuntu CRON[147324]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 14:30:01 ubuntu CRON[147324]: pam_unix(cron:session): session closed for user root
+Jun 29 15:17:01 ubuntu CRON[147573]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 15:17:01 ubuntu CRON[147573]: pam_unix(cron:session): session closed for user root
+Jun 29 15:30:01 ubuntu CRON[147629]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 15:30:01 ubuntu CRON[147629]: pam_unix(cron:session): session closed for user root
+Jun 29 16:17:01 ubuntu CRON[147922]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 16:17:01 ubuntu CRON[147922]: pam_unix(cron:session): session closed for user root
+Jun 29 16:30:01 ubuntu CRON[147988]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 16:30:01 ubuntu CRON[147988]: pam_unix(cron:session): session closed for user root
+Jun 29 17:17:01 ubuntu CRON[148220]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 17:17:01 ubuntu CRON[148220]: pam_unix(cron:session): session closed for user root
+Jun 29 17:30:01 ubuntu CRON[148285]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 17:30:01 ubuntu CRON[148285]: pam_unix(cron:session): session closed for user root
+Jun 29 18:17:01 ubuntu CRON[148533]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 18:17:01 ubuntu CRON[148533]: pam_unix(cron:session): session closed for user root
+Jun 29 18:30:01 ubuntu CRON[148603]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 18:30:01 ubuntu CRON[148603]: pam_unix(cron:session): session closed for user root
+Jun 29 19:17:01 ubuntu CRON[148844]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 19:17:01 ubuntu CRON[148844]: pam_unix(cron:session): session closed for user root
+Jun 29 19:30:01 ubuntu CRON[148903]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 19:30:01 ubuntu CRON[148903]: pam_unix(cron:session): session closed for user root
+Jun 29 20:17:01 ubuntu CRON[149120]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 20:17:01 ubuntu CRON[149120]: pam_unix(cron:session): session closed for user root
+Jun 29 20:30:01 ubuntu CRON[149178]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 20:30:01 ubuntu CRON[149178]: pam_unix(cron:session): session closed for user root
+Jun 29 21:17:01 ubuntu CRON[149405]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 21:17:01 ubuntu CRON[149405]: pam_unix(cron:session): session closed for user root
+Jun 29 21:30:01 ubuntu CRON[149488]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 21:30:01 ubuntu CRON[149488]: pam_unix(cron:session): session closed for user root
+Jun 29 22:17:01 ubuntu CRON[149701]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 22:17:01 ubuntu CRON[149701]: pam_unix(cron:session): session closed for user root
+Jun 29 22:30:01 ubuntu CRON[149752]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 22:30:01 ubuntu CRON[149752]: pam_unix(cron:session): session closed for user root
+Jun 29 23:17:01 ubuntu CRON[149985]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 23:17:01 ubuntu CRON[149985]: pam_unix(cron:session): session closed for user root
+Jun 29 23:30:01 ubuntu CRON[150043]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 29 23:30:01 ubuntu CRON[150043]: pam_unix(cron:session): session closed for user root
+Jun 30 00:17:01 ubuntu CRON[150380]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 00:17:01 ubuntu CRON[150380]: pam_unix(cron:session): session closed for user root
+Jun 30 01:17:01 ubuntu CRON[150663]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 01:17:01 ubuntu CRON[150663]: pam_unix(cron:session): session closed for user root
+Jun 30 02:17:01 ubuntu CRON[151999]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 02:17:01 ubuntu CRON[151999]: pam_unix(cron:session): session closed for user root
+Jun 30 03:10:01 ubuntu CRON[152232]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 03:10:01 ubuntu CRON[152232]: pam_unix(cron:session): session closed for user root
+Jun 30 03:17:01 ubuntu CRON[152268]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 03:17:01 ubuntu CRON[152268]: pam_unix(cron:session): session closed for user root
+Jun 30 04:17:01 ubuntu CRON[152544]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 04:17:01 ubuntu CRON[152544]: pam_unix(cron:session): session closed for user root
+Jun 30 05:17:01 ubuntu CRON[152802]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 05:17:01 ubuntu CRON[152802]: pam_unix(cron:session): session closed for user root
+Jun 30 06:17:01 ubuntu CRON[153063]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 06:17:01 ubuntu CRON[153063]: pam_unix(cron:session): session closed for user root
+Jun 30 06:25:01 ubuntu CRON[153101]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 06:25:01 ubuntu CRON[153101]: pam_unix(cron:session): session closed for user root
+Jun 30 06:46:58 ubuntu PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Jun 30 06:46:58 ubuntu PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Jun 30 07:17:01 ubuntu CRON[153361]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 07:17:01 ubuntu CRON[153361]: pam_unix(cron:session): session closed for user root
+Jun 30 07:30:01 ubuntu CRON[153418]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 07:30:01 ubuntu CRON[153418]: pam_unix(cron:session): session closed for user root
+Jun 30 08:17:01 ubuntu CRON[153693]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 08:17:01 ubuntu CRON[153693]: pam_unix(cron:session): session closed for user root
+Jun 30 08:30:01 ubuntu CRON[153751]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 08:30:01 ubuntu CRON[153751]: pam_unix(cron:session): session closed for user root
+Jun 30 09:17:01 ubuntu CRON[153998]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 09:17:01 ubuntu CRON[153998]: pam_unix(cron:session): session closed for user root
+Jun 30 09:30:01 ubuntu CRON[154062]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 09:30:01 ubuntu CRON[154062]: pam_unix(cron:session): session closed for user root
+Jun 30 10:10:29 ubuntu gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=l0ksh
+Jun 30 10:10:37 ubuntu gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=l0ksh
+Jun 30 10:10:44 ubuntu gdm-password]: gkr-pam: unlocked login keyring
+Jun 30 10:11:52 ubuntu dbus-daemon[885]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Jun 30 10:17:01 ubuntu CRON[154518]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 10:17:01 ubuntu CRON[154518]: pam_unix(cron:session): session closed for user root
+Jun 30 10:22:13 ubuntu dbus-daemon[885]: [system] Failed to activate service 'org.bluez': timed out (service_start_timeout=25000ms)
+Jun 30 10:30:01 ubuntu CRON[156014]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 10:30:01 ubuntu CRON[156014]: pam_unix(cron:session): session closed for user root
+Jun 30 11:17:01 ubuntu CRON[156627]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 11:17:01 ubuntu CRON[156627]: pam_unix(cron:session): session closed for user root
+Jun 30 11:30:01 ubuntu CRON[156785]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 11:30:01 ubuntu CRON[156785]: pam_unix(cron:session): session closed for user root
+Jun 30 12:17:01 ubuntu CRON[157493]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 12:17:01 ubuntu CRON[157493]: pam_unix(cron:session): session closed for user root
+Jun 30 12:30:01 ubuntu CRON[157797]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 12:30:01 ubuntu CRON[157797]: pam_unix(cron:session): session closed for user root
+Jun 30 13:17:01 ubuntu CRON[158494]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 13:17:01 ubuntu CRON[158494]: pam_unix(cron:session): session closed for user root
+Jun 30 13:30:01 ubuntu CRON[159007]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 13:30:01 ubuntu CRON[159007]: pam_unix(cron:session): session closed for user root
+Jun 30 14:17:01 ubuntu CRON[159479]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 14:17:01 ubuntu CRON[159479]: pam_unix(cron:session): session closed for user root
+Jun 30 14:27:37 ubuntu gdm-password]: gkr-pam: unlocked login keyring
+Jun 30 14:30:01 ubuntu CRON[159680]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 14:30:01 ubuntu CRON[159680]: pam_unix(cron:session): session closed for user root
+Jun 30 15:17:01 ubuntu CRON[161040]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 15:17:01 ubuntu CRON[161040]: pam_unix(cron:session): session closed for user root
+Jun 30 15:30:01 ubuntu CRON[161183]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 15:30:01 ubuntu CRON[161183]: pam_unix(cron:session): session closed for user root
+Jun 30 16:17:01 ubuntu CRON[161666]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 16:17:01 ubuntu CRON[161666]: pam_unix(cron:session): session closed for user root
+Jun 30 16:30:01 ubuntu CRON[161805]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 16:30:02 ubuntu CRON[161805]: pam_unix(cron:session): session closed for user root
+Jun 30 17:17:01 ubuntu CRON[162285]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 17:17:01 ubuntu CRON[162285]: pam_unix(cron:session): session closed for user root
+Jun 30 17:30:01 ubuntu CRON[162401]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 17:30:02 ubuntu CRON[162401]: pam_unix(cron:session): session closed for user root
+Jun 30 18:17:01 ubuntu CRON[162938]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 18:17:02 ubuntu CRON[162938]: pam_unix(cron:session): session closed for user root
+Jun 30 18:30:02 ubuntu CRON[163067]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Jun 30 18:30:02 ubuntu CRON[163067]: pam_unix(cron:session): session closed for user root
+Jun 30 18:45:25 ubuntu gdm-password]: gkr-pam: unlocked login keyring
