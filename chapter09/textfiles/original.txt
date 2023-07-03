@@ -1,0 +1,7 @@
+In this program, the copy_file() function takes two file paths as input: source_file (the file you want to copy) and destination_file (the file where you want to copy it to).
+
+The function uses nested with statements to open both the source and destination files. It then iterates through each line in the source file and writes it to the destination file.
+
+After calling copy_file() with the appropriate source and destination file paths, the program will create a copy of the source file and save it as the destination file.
+
+Remember to replace 'path/to/source_file.txt' and 'path/to/destination_file.txt' with the actual file paths you want to use.
